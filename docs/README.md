@@ -67,7 +67,6 @@ make clean
 ├── tests/         # Test files
 └── Makefile       # Build configuration
 ```
-```
 
 ## Development Notes 
 This project was developed as a learning project focusing on:
