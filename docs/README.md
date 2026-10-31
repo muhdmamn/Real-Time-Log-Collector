@@ -12,7 +12,7 @@ A simple C program that runs a command for a specified duration and logs its out
 
 ## Build
 - ```bash
-# make
+   make
 ```
 
 ## Usage
